@@ -7,20 +7,20 @@ Welcome to the consolidated repository that houses multiple submodules focused o
 This repository includes the following submodules:
 
 1. **Positional Embedding**
-- implementation and analysis of absolute position encoding and rotational position encoding.
+    -  implementation and analysis of absolute position encoding and rotational position encoding.
 
 2. **Tokenizations**
-- Implementation of byte-pair encoding (BPE) with regex patterns matching for tokenization pattern.
+    - Implementation of byte-pair encoding (BPE) with regex patterns matching for tokenization pattern.
 
 
 3. **Language Modelling**
-- a gpt2 like transformer-based pretrained model with weight tying and simplified KV cache.
+    - a gpt2 like transformer-based pretrained model with weight tying and simplified KV cache.
 
 4. **opt_gpt**
-- Extension of Language_modelling repo, explores distributed training and proper pipeline.
+    - Extension of Language_modelling repo, explores distributed training and proper pipeline.
 
 5. **Fine-Tuning Concepts**
-- Techniques and methodologies for fine-tuning pre-trained models, includes instruction tuning,quantization and performance alignment.
+    - Techniques and methodologies for fine-tuning pre-trained models, includes instruction tuning,quantization and performance alignment.
 
 # Getting Started
 
@@ -36,7 +36,7 @@ Setting Up Submodules
 
 Each submodule contains its own README with setup instructions. Navigate to the respective submodule directories for more details.
 ```bash
-cd <submodule-name>
+cd submodule-name
 # Follow the instructions specific to the submodule
 ```
 # Prerequisites
