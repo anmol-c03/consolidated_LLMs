@@ -4,3 +4,6 @@
 [submodule "positional_embedding"]
 	path = positional_embedding
 	url = https://github.com/anmol-c03/positional_embedding
+[submodule "Fine_Tuning_concepts"]
+	path = Fine_Tuning_concepts
+	url = https://github.com/anmol-c03/Fine_Tuning_concepts
