@@ -10,3 +10,6 @@
 [submodule "opt_gpt"]
 	path = opt_gpt
 	url = https://github.com/anmol-c03/opt_gpt
+[submodule "tokenization"]
+	path = tokenization
+	url = https://github.com/anmol-c03/tokenization
