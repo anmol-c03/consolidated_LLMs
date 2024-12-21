@@ -7,3 +7,6 @@
 [submodule "Fine_Tuning_concepts"]
 	path = Fine_Tuning_concepts
 	url = https://github.com/anmol-c03/Fine_Tuning_concepts
+[submodule "opt_gpt"]
+	path = opt_gpt
+	url = https://github.com/anmol-c03/opt_gpt
